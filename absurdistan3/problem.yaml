@@ -1,0 +1,9 @@
+author: Lukáš Poláček
+license: cc by-sa
+validation: custom
+
+#limits:
+#    time_multiplier: 5
+#    time_safety_margin: 2
+#    memory: 4096
+#    output: 16

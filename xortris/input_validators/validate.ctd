@@ -1,0 +1,7 @@
+INT(1,100,m) SPACE INT(1,100,n) NEWLINE
+REP(m)
+  REP(n)
+    REGEX("[.X]")
+  END
+  NEWLINE
+END

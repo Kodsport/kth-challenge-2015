@@ -1,0 +1,19 @@
+skip
+skip
+normal random 5 100 cycle
+normal exactly 100000 cycle
+normal random 4 100 star
+normal exactly 40000 star
+normal random 4 100 line
+normal exactly 30000 line
+normal random 2 100 randgraph
+normal random 2 100 randgraph
+normal random 2 100 randgraph
+normal random 2 100000 randgraph
+normal random 2 100000 randgraph
+normal random 2 100000 randgraph
+normal exactly 100000 randgraph
+normal exactly 100000 disconnected
+normal exactly 100000 disconnected
+normal random 2 100000 disconnected
+normal random 2 100000 disconnected

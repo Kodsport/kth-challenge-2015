@@ -1,0 +1,10 @@
+INT(100, 1000) NEWLINE
+REGEX("fixed|adaptive_deterministic|adaptive_cautious|adaptive_random", mode)
+IF(mode == "fixed")
+  SPACE INT(0, 126) SPACE INT(0, 126) SPACE INT(0, 126)
+ELSE
+  IF(mode == "adaptive_random")
+    SPACE INT(0, 2147483647)
+  END
+END
+NEWLINE

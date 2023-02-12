@@ -1,0 +1,9 @@
+author: Per Austrin
+license: cc by-sa
+validation: custom interactive
+
+limits:
+    time_multiplier: 1.5
+#    time_safety_margin: 2
+#    memory: 4096
+#    output: 16
